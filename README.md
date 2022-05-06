@@ -32,7 +32,7 @@
 - [References](#references)  
 ---
 
-![](https://github.com/brandoncwn/staticwebappstarter/blob/main/images/web_app_ui3.png)
+![](https://github.com/brandoncwn/staticwebappstarter/blob/main/images/select_stage2.png)
 
 
 ## Architecture
@@ -180,9 +180,14 @@ Insert any commit message. You should see the pipeline stages workflow updating.
 Use the Select PDF File to load your documents  
   **Note**: *your documents should be in pdf/image format. The first document loaded may take several minutes. However, all subsequent documents should be processed much faster*
  
- ![](https://github.com/brandoncwn/staticwebappstarter/blob/main/images/web_app_blank2.png)
+ ![](https://github.com/brandoncwn/staticwebappstarter/blob/main/images/web_app_blank4.png)
  
- ![](https://github.com/brandoncwn/staticwebappstarter/blob/main/images/web_app_file_upload_successful.png)
+ ![](https://github.com/brandoncwn/staticwebappstarter/blob/main/images/upload_docs2.png)  
+  
+ ![](https://github.com/brandoncwn/staticwebappstarter/blob/main/images/select_stage2.png)  
+
+ ![](https://github.com/brandoncwn/staticwebappstarter/blob/main/images/select_stage_next1v2.png)  
+
 
 Check for you newly found custom entities!
  
